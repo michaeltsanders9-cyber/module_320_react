@@ -1,0 +1,10 @@
+function=employee box-sizing: border-box;
+margin: 0;
+padding: 0;
+font-family: Arial,
+sans-serif;
+
+images {
+    max-width: 100%;
+    height: auto;
+}
